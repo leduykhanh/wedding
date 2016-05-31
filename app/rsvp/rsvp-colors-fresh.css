@@ -1,0 +1,96 @@
+html,.wp-dialog
+{
+	background-color:#ffffff;
+}
+
+
+textarea,input[type=text],input[type=password],input[type=file],input[type=button],input[type=submit],input[type=reset],select
+{
+	background-color:#fff;
+	border-color:#dfdfdf;
+}
+
+
+input[readonly]
+{
+	background-color:#eee;
+}
+
+
+body,#wpbody,.form-table .pre
+{
+	color:#333;
+}
+
+
+.form-table th,.form-wrap label
+{
+	color:#222;
+	text-shadow:#fff 0 1px 0;
+}
+
+
+
+.submit
+{
+	border-color:#DFDFDF;
+}
+
+
+.button,.button-secondary,.submit input,input[type=button],input[type=submit]
+{
+	border-color:#bbb;
+	color:#464646;
+}
+
+.button:hover,.button-secondary:hover,.submit input:hover,input[type=button]:hover,input[type=submit]:hover
+{
+	border-color:#666;
+	color:#000;
+}
+
+.button,.submit input,.button-secondary
+{
+	background:#f2f2f2 url(images/white-grad.png) repeat-x scroll left top;
+	text-shadow:rgba(255,255,255,1) 0 1px 0;
+}
+
+.button:active,.submit input:active,.button-secondary:active
+{
+	background:#eee url(images/white-grad-active.png) repeat-x scroll left top;
+}
+
+input.button-primary,button.button-primary,a.button-primary
+{
+	background:#21759B url(images/button-grad.png) repeat-x scroll left top;
+	border-color:#298cba;
+	color:#fff;
+	font-weight:700;
+	text-shadow:rgba(0,0,0,0.3) 0 -1px 0;
+}
+
+input.button-primary:active,button.button-primary:active,a.button-primary:active
+{
+	background:#21759b url(images/button-grad-active.png) repeat-x scroll left top;
+	color:#eaf2fa;
+}
+
+input.button-primary:hover,button.button-primary:hover,a.button-primary:hover,a.button-primary:focus,a.button-primary:active
+{
+	border-color:#13455b;
+	color:#eaf2fa;
+}
+
+
+.button-primary-disabled,.button-primary[disabled],.button-primary:disabled
+{
+	background:#298CBA!important;
+	color:#9FD0D5!important;
+}
+
+
+div.updated,.login .message
+{
+	background-color:#ffffe0;
+	border-color:#e6db55;
+}

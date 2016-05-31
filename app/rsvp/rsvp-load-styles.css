@@ -1,0 +1,236 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td
+{
+	background:transparent;
+	border:0;
+	margin:0;
+	outline:0;
+	padding:0;
+}
+
+body
+{
+	line-height:1;
+}
+
+
+#wpwrap
+{
+	height:auto;
+	min-height:100%;
+	width:450px;
+	margin:0px;
+}
+
+
+
+.screen-reader-text,.screen-reader-text span
+{
+	height:1px;
+	left:-1000em;
+	overflow:hidden;
+	position:absolute;
+	width:1px;
+}
+
+
+input[type=text],input[type=password],textarea
+{
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+input[type=checkbox],input[type=radio]
+{
+	vertical-align:middle;
+}
+
+html,body
+{
+	height:100%;
+}
+
+body,td,textarea,input,select
+{
+	font-family:"Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+	font-size:13px;
+}
+
+body,textarea
+{
+	line-height:1.4em;
+}
+
+textarea
+{
+	width: 240px;
+	overflow: auto;
+}
+
+select
+{
+	width: 240px;
+}
+
+input,select
+{
+	line-height:15px;
+}
+
+p
+{
+	margin:1em 0;
+}
+
+
+label
+{
+	cursor:pointer;
+}
+
+
+p,li,dl,dd,dt
+{
+	line-height:140%;
+}
+
+textarea,input,select
+{
+	margin:1px;
+	padding:3px;
+}
+
+
+div.updated,div.error
+{
+	-khtml-border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border-style:solid;
+	border-width:1px;
+	margin:5px 15px 2px;
+	padding:0 .6em;
+}
+
+div.updated p,div.error p
+{
+	margin:.5em 0;
+	padding:2px;
+}
+
+
+
+p,ul,ol,blockquote,input,select
+{
+	font-size:12px;
+}
+
+
+textarea,input[type=text],input[type=password],input[type=file],input[type=button],input[type=submit],input[type=reset],select
+{
+	-khtml-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border-style:solid;
+	border-width:1px;
+}
+
+select option
+{
+	padding:2px;
+}
+
+.submit
+{
+	-khtml-border-bottom-left-radius:3px;
+	-khtml-border-bottom-right-radius:3px;
+	-moz-border-radius:0 0 3px 3px;
+	-webkit-border-bottom-left-radius:3px;
+	-webkit-border-bottom-right-radius:3px;
+	border-bottom-left-radius:3px;
+	border-bottom-right-radius:3px;
+	margin:5px 0;
+	padding:1.5em 0;
+}
+
+
+.submit input,.button,input.button,.button-primary,input.button-primary,.button-secondary,input.button-secondary,.button-highlighted,input.button-highlighted,#postcustomstuff .submit input
+{
+	-khtml-border-radius:11px;
+	-khtml-box-sizing:content-box;
+	-moz-border-radius:11px;
+	-moz-box-sizing:content-box;
+	-webkit-border-radius:11px;
+	-webkit-box-sizing:content-box;
+	border-radius:11px;
+	border-style:solid;
+	border-width:1px;
+	box-sizing:content-box;
+	cursor:pointer;
+	font-size:11px!important;
+	line-height:13px;
+	padding:3px 8px;
+	text-decoration:none;
+}
+
+
+input.regular-text,#adduser .form-field input
+{
+	width:20em;
+}
+
+
+
+label,#your-profile label+a
+{
+	vertical-align:middle;
+}
+
+
+body.wp-admin
+{
+	min-width:450px;
+}
+
+
+.form-table
+{
+	border-collapse:collapse;
+	clear:both;
+	margin-bottom:-8px;
+	margin-top:.5em;
+	width:100%;
+}
+
+.form-table td
+{
+	font-size:11px;
+	line-height:20px;
+	margin-bottom:9px;
+	padding:8px 0px;
+}
+
+.form-table th,.form-wrap label
+{
+	font-weight:400;
+	text-shadow:rgba(255,255,255,1) 0 1px 0;
+}
+
+.form-table th
+{
+	padding:10px 0px;
+	text-align:left;
+	vertical-align:top;
+	width:225px;
+}
+
+
+fieldset
+{
+	border:0;
+	margin:0;
+	padding:0;
+}
