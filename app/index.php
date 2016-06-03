@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0060)http://demo.dethemes.com/forever/versions/onepage/index.html -->
+<!-- saved from url=(0060)http://jangkoo/wedding/ -->
 <html lang="en" class=" js rgba boxshadow csstransitions desktop landscape" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
      	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -7,6 +7,7 @@
       	<meta name="author" content="Jangkoo">
         <meta name="ROBOTS" content="NOINDEX">
       	<title>JangKoo&#9825;Nancy 's Wedding</title>
+		<script src="https://use.fontawesome.com/667b767e3e.js"></script>
         
         <link rel="icon" href="http://demo.dethemes.com/forever/versions/onepage/images/favicon.jpg">
         <!-- Bootstrap -->
@@ -54,12 +55,12 @@
             		
                     <!-- LEFT HEART -->
             		<div class="heart-animation">                	
-            			<i class="de-icon-heart"></i>
+            			<i class="fa fa-heart-3"></i>
                	 	</div>
                 
                 	<!-- RIGHT HEART -->
                 	<div class="heart-animation-reverse">
-            			<i class="de-icon-heart"></i>
+            			<i class="fa fa-heart-3"></i>
                 	</div>     
                      
                 </div>
@@ -129,10 +130,10 @@
                     	<!-- LOGO -->
             			<div class="logo-wrapper">
                 			<!-- CSS LOGO --> 
-                        	<a href="http://demo.dethemes.com/forever/versions/onepage/index.html">
+                        	<a href="http://jangkoo/wedding/">
                     			<div class="css-logo rounded">
                    					<div class="css-logo-text">
-                        				<strong>J</strong><i class="de-icon-heart-1"></i><strong>N</strong>
+                        				<strong>J</strong><i class="fa fa-heart-o"></i><strong>N</strong>
                     				</div>
                     			</div>
                        		</a>
@@ -145,7 +146,7 @@
                 		<!-- END of LOGO -->
                     
                     	<div id="mobile-nav">
-                    		<i class="de-icon-menu"></i>
+                    		<span class="glyphicon glyphicon-align-justify"></span>
                     	</div>
                 
                 		<ul id="nav-menu" class="nav-smooth-scroll">
@@ -183,7 +184,7 @@
             	</nav>
         	</header> <!-- END of NAVIGATION -->
             
-		<ul class="flex-direction-nav"><li><a class="flex-prev flex-disabled" href="http://demo.dethemes.com/forever/versions/onepage/index.html#" tabindex="-1">Previous</a></li><li><a class="flex-next flex-disabled" href="http://demo.dethemes.com/forever/versions/onepage/index.html#" tabindex="-1">Next</a></li></ul></section><!-- ENF of MAIN SLIDER -->
+		<ul class="flex-direction-nav"><li><a class="flex-prev flex-disabled" href="http://jangkoo/wedding/#" tabindex="-1">Previous</a></li><li><a class="flex-next flex-disabled" href="http://jangkoo/wedding/#" tabindex="-1">Next</a></li></ul></section><!-- ENF of MAIN SLIDER -->
       
         
         <!--CONTENT SECTION-->
@@ -670,7 +671,7 @@
                                 </div>  
                                 
                                 <div class="text-center">
-                                	<a href="http://demo.dethemes.com/forever/versions/onepage/index.html#rsvp-section" class="smooth-scroll de-button outline medium animation fadeInUp" style="visibility: hidden;">
+                                	<a href="http://jangkoo/wedding/#rsvp-section" class="smooth-scroll de-button outline medium animation fadeInUp" style="visibility: hidden;">
                                     	RSVP
                                   	</a>
                                 </div>
@@ -1071,7 +1072,7 @@
             											</div>
         											</a>
                                                     
-                                            		<a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">
+                                            		<a href="http://jangkoo/wedding/#">
         												<div class="de-icon circle light medium-size inline">
             												<i class="de-icon-link"></i>
             											</div>
@@ -1086,7 +1087,7 @@
                                     <!-- TITLE & EXCERPT -->
                         			<div class="title-excerpt animation fadeIn" style="visibility: hidden;">
                         
-                        				<h3><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">DANCING PARTY</a></h3>
+                        				<h3><a href="http://jangkoo/wedding/#">DANCING PARTY</a></h3>
                           				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce urna urna, imperdiet et purus ut, ultricies sollicitudin arcu. Cras placerat, arcu non faucibus suscipit, ex arcu consectetur enim.</p>
                             
                         			</div><!-- END of TITLE & EXCERPT -->
@@ -1114,7 +1115,7 @@
             											</div>
         											</a>
                                                     
-                                            		<a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">
+                                            		<a href="http://jangkoo/wedding/#">
         												<div class="de-icon circle light medium-size inline">
             												<i class="de-icon-link"></i>
             											</div>
@@ -1263,7 +1264,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">BEST MAN</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">BEST MAN</a></h3>
                           			<p>James Nathan</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1310,7 +1311,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">BEST FRIEND</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">BEST FRIEND</a></h3>
                           			<p>Jacob</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1357,7 +1358,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">ROOM MATE</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">ROOM MATE</a></h3>
                           			<p>Ehtan Henry</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1403,7 +1404,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">COLLEGE FRIEND</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">COLLEGE FRIEND</a></h3>
                           			<p>William Chloe</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1450,7 +1451,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">BROTHER</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">BROTHER</a></h3>
                           			<p>Samuel Luke</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1497,7 +1498,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">FUTURE BROTHER IN LAW</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">FUTURE BROTHER IN LAW</a></h3>
                           			<p>Hudson</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1584,7 +1585,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">MAID OF HONOR</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">MAID OF HONOR</a></h3>
                           			<p>Emma Grace</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1631,7 +1632,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">BEST FRIEND</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">BEST FRIEND</a></h3>
                           			<p>Audrey Amelia</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1678,7 +1679,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">ROOM MATE</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">ROOM MATE</a></h3>
                           			<p>Abigail Chloe</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1725,7 +1726,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">COLLEGE FRIEND</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">COLLEGE FRIEND</a></h3>
                           			<p>Clara Natalie</p> 
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1772,7 +1773,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">SISTER</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">SISTER</a></h3>
                           			<p>Alice Stella</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1819,7 +1820,7 @@
                             	<!-- TITLE & EXCERPT -->
                         		<div class="title-excerpt animation fadeIn text-center" style="visibility: hidden;">
                         
-                        			<h3 class="no-margin"><a href="http://demo.dethemes.com/forever/versions/onepage/index.html#">FUTURE SISTER IN LAW</a></h3>
+                        			<h3 class="no-margin"><a href="http://jangkoo/wedding/#">FUTURE SISTER IN LAW</a></h3>
                           			<p>Lucy Evelyn</p>
                             
                         		</div><!-- END of TITLE & EXCERPT -->
@@ -1864,7 +1865,7 @@
                 	<div class="row">
                     	<div class="col-md-offset-1 col-md-10 text-center">
                     		<div id="registry-logo" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
-    							<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3150px; left: -630px; display: block; transition: all 0ms ease;"><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://demo.dethemes.com/forever/versions/onepage/index.html#"> <img src="./js/gift-registry-1a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://demo.dethemes.com/forever/versions/onepage/index.html#"> <img src="./js/gift-registry-2a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://demo.dethemes.com/forever/versions/onepage/index.html#"> <img src="./js/gift-registry-3a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://demo.dethemes.com/forever/versions/onepage/index.html#"> <img src="./js/gift-registry-1a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://demo.dethemes.com/forever/versions/onepage/index.html#"> <img src="./js/gift-registry-2a.png" alt=""> </a> </div></div></div></div>
+    							<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3150px; left: -630px; display: block; transition: all 0ms ease;"><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://jangkoo/wedding/#"> <img src="./js/gift-registry-1a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://jangkoo/wedding/#"> <img src="./js/gift-registry-2a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://jangkoo/wedding/#"> <img src="./js/gift-registry-3a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://jangkoo/wedding/#"> <img src="./js/gift-registry-1a.png" alt=""> </a> </div></div><div class="owl-item" style="width: 315px;"><div class="item"> <a href="http://jangkoo/wedding/#"> <img src="./js/gift-registry-2a.png" alt=""> </a> </div></div></div></div>
     							
                             	
                             	

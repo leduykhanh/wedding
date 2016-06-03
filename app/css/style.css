@@ -1027,6 +1027,7 @@ img.with-border{
 	height:inherit; 
 	margin:0 auto; 
 	display: table;
+	z-index: 99999;
 }
 
 /* 06.5.3 Title Wrapper */
@@ -3143,7 +3144,7 @@ a:hover .navbar-setting-button,
 }
 
 #nav-bar.bottom-bar.outside{
-	bottom:-100px;
+	bottom:-600px;
 }
 
 /* ----------------------------------------------*/

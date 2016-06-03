@@ -13,5 +13,5 @@ var routes = [
 		<Route path="/test" component={TestReact}>
 		</Route>
 		];
-//ReactDOM.render(<Router routes={routes} history={hashHistory}/>, document.getElementById('content'));
-ReactDOM.render(<App history={hashHistory}/>, document.getElementById('content'));
+//ReactDOM.render(<Router routes={routes} history={hashHistory}/>, document.getElementById('react_content'));
+ReactDOM.render(<App history={hashHistory}/>, document.getElementById('react_content'));
