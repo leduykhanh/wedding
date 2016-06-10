@@ -146,7 +146,7 @@
                 		<!-- END of LOGO -->
                     
                     	<div id="mobile-nav">
-                    		<span class="glyphicon glyphicon-align-justify"></span>
+                    		<i class="fa fa-th-list"></i>
                     	</div>
                 
                 		<ul id="nav-menu" class="nav-smooth-scroll">
@@ -1907,7 +1907,7 @@
                 <div class="row">
                 	<div id="message" class="col-md-12 message"> <!-- Show Message --> </div>
                   
-                	<form method="post" action="http://demo.dethemes.com/forever/versions/onepage/rsvp.php" id="rsvpform">
+                	<form method="post" action="./rsvp/rsvp.php" id="rsvpform">
                 		<div class="col-md-6">
                         	<div id="fullname" class="form-group">
     							<label for="inputname">*NAME</label>
@@ -1940,10 +1940,6 @@
                     </form>
                    
               	</div>
-				<div class="row">
-				<?php //include_once("rsvp/rsvp.php");?>
-				<iframe scrolling=no frameborder=0 width=450 height=1000 src="rsvp/rsvp.php"></iframe>
-				</div>
                 </div>
            
            	</section>
