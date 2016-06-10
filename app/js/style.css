@@ -800,7 +800,7 @@ img.with-border{
 }
 
 #side-nav-menu > li > a:before{
-  	font-family: "fontello";
+  	font-family: "FontAwesome";
   	font-style: normal;
   	font-weight: normal;
   	font-size:10px;
@@ -1626,11 +1626,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .banner-text.withlove:before{
 	display:block;
-	font-family: "fontello";
+	font-family: "FontAwesome";
 	position:absolute;
 	font-size:22px;
 	color:#FFF;
-	content:"\e806";
+	content:"\f004";
 	top:-17px;
 	left:0;
 	right:0;
@@ -1643,11 +1643,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .banner-text.withlove:after{
 	display:block;
-	font-family: "fontello";
+	font-family: "FontAwesome";
 	position:absolute;
 	font-size:22px;
 	color:#f0394d;
-	content:"\e806";
+	content:"\f004";
 	top:-17px;
 	left:0;
 	right:0	;
@@ -2387,19 +2387,19 @@ form .btn-primary.active,
 }
 
 .ajax-checkbox .btn.custom-option-icon:before{
-	font-family:"fontello";
+	font-family:"FontAwesome";
 	content:"\ecd4";
 	margin-right:7px;
 }
 
 .ajax-checkbox .btn.active-icon.custom-option-icon:before{
-	font-family:"fontello";
+	font-family:"FontAwesome";
 	content:"\ecd3";
 	margin-right:7px;
 }
 
 .ajax-radio .btn.custom-option-icon:before{
-	font-family:"fontello";
+	font-family:"FontAwesome";
 	content:"\e914";
 	margin-right:7px;
 	font-size:16px;
@@ -2407,7 +2407,7 @@ form .btn-primary.active,
 }
 
 .ajax-radio .btn.active-icon.custom-option-icon:before{
-	font-family:"fontello";
+	font-family:"FontAwesome";
 	content:"\e917";
 	margin-right:7px;
 	font-size:16px;
