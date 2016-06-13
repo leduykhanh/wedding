@@ -48,19 +48,19 @@
 </div>
 <div class="pace-activity"></div></div>
     	<!--PRELOADER-->
-        <div id="preloader" style="display: none;">
+        <div id="preloader" style="display: block;">
         
         	<div class="alignment">
             	<div class="v-align center-middle"> 
             		
                     <!-- LEFT HEART -->
             		<div class="heart-animation">                	
-            			<i class="fa fa-heart-3"></i>
+            			<i class="fa fa-heart fa-12"></i>ookgnaJ
                	 	</div>
                 
                 	<!-- RIGHT HEART -->
                 	<div class="heart-animation-reverse">
-            			<i class="fa fa-heart-3"></i>
+            			<i class="fa fa-heart fa-12">Nancy</i>
                 	</div>     
                      
                 </div>
@@ -1004,9 +1004,10 @@
                      	</div>
                         
                         <div class="row">
-                        	<div class="col-md-offset-3 col-md-6">                   	
+                        	<div class="col-md-offset-2 col-md-8">                   	
                 	 			
                            		<div id="date-countdown" class="circle-countdown animation fadeInUp is-countdown" style="visibility: hidden;"></div>
+								<div id="note"></div>
                      
                      		</div>
                      	</div>
