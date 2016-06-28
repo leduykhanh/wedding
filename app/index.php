@@ -2033,6 +2033,8 @@
         <script src="./js/owl.carousel.js"></script>
         <!-- Google Map -->
         <script src="./js/js"></script>
+<!--		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKlBLVfl6lVQQ6QDpwloZ10pOG7RFY58c&callback=initMap"
+    async defer></script>-->
         <script type="text/javascript" src="./js/markerwithlabel.js"></script>
         <!-- RSVP -->
         <script src="./js/rsvp.js"></script>

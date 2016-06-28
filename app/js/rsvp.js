@@ -144,7 +144,8 @@
 			
                 //DEFINE OUTPUT MESSAGE VARIABLE
 				var output = "";
-				
+				console.log(action_url);
+				console.log(response);
 				//IF RESPONSE ERROR
 				if(response.type == 'error')
 				{

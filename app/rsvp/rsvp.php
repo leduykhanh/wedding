@@ -1,7 +1,8 @@
 <?php
 
 $db = new SQLite3("rsvp.db");
-$db->exec("INSERT INTO rsvp (name,email,events, message) VALUES ('LE','LE','LE','LE');");
+$name = $_POST["inputname"];
+$db->exec("INSERT INTO rsvp (name,email,events, message) VALUES ('$name','LE','LE','LE');");
 $db->close();
-
+echo "".$name;
 ?>
