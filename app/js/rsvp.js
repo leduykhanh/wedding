@@ -132,19 +132,19 @@
 			post_data["all_error_required"] = all_err;
 			
 			//DEBUG POST DATA	
-			/*console.log ("json " + JSON.stringify(post_data));*/
+			//console.log ("json " + JSON.stringify(post_data));
 			
 			//DISABLE SUBMIT BUTTON
 			var submit_value = $('input[type="submit"]#submitButton').val();
-			$('input[type="submit"]#submitButton').prop('disabled', true);
+			//$('input[type="submit"]#submitButton').prop('disabled', true);
 			$('input[type="submit"]#submitButton').val('SENDING ...');
 			
 			//START POST ACTION
-            $.post(action_url, post_data, function(response){  
+            $.post(action_url, post_data, function(response,status){  
 			
                 //DEFINE OUTPUT MESSAGE VARIABLE
 				var output = "";
-				console.log(action_url);
+				//console.log(action_url);
 				console.log(response);
 				//IF RESPONSE ERROR
 				if(response.type == 'error')
