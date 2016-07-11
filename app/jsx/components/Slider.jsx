@@ -19,7 +19,7 @@ export default class Slider extends React.Component {
 
     const images = [
       {
-        original: '/wedding/app/images/slide-image-1920-i.jpg',
+        original: 'http://www.agentevolution.com/wp-content/uploads/2014/08/thumbnails.png',
         thumbnail: 'http://lorempixel.com/250/150/nature/1/',
         originalClass: 'featured-slide',
         thumbnailClass: 'featured-thumb',
@@ -28,11 +28,11 @@ export default class Slider extends React.Component {
         size: 'Optional size (image size relative to the breakpoint)'
       },
       {
-        original: '/wedding/app/images/slide-image-1920-i.jpg',
+        original: 'http://www.agentevolution.com/wp-content/uploads/2014/08/thumbnails.png',
         thumbnail: 'http://lorempixel.com/250/150/nature/2/'
       },
       {
-        original: '/wedding/app/images/slide-image-1920-i.jpg',
+        original: 'http://www.agentevolution.com/wp-content/uploads/2014/08/thumbnails.png',
         thumbnail: 'http://lorempixel.com/250/150/nature/3/'
       }
     ]
@@ -44,7 +44,8 @@ export default class Slider extends React.Component {
           items={images}
           slideInterval={10000}
           autoPlay={true}
-          showThumbnails={false}
+          showThumbnails={true}
+		  showBullets={true}
           disableArrowKeys={true}
           onImageLoad={this.handleImageLoad}/>
 

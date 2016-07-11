@@ -8,10 +8,11 @@ import ReactDOM from 'react-dom';
 
 var routes = [
         <Route path="/" component={App}>
-			<Route path="test" component={TestReact} />
-		</Route>,
-		<Route path="/test" component={TestReact}>
+			<Route path="test" component={TestReact}>
+			</Route>
 		</Route>
 		];
-//ReactDOM.render(<Router routes={routes} history={hashHistory}/>, document.getElementById('react_content'));
-ReactDOM.render(<App history={hashHistory}/>, document.getElementById('react_content'));
+		
+ReactDOM.render(<Router routes={routes} history={hashHistory}/>, document.getElementById('react_content'));
+//ReactDOM.render(<App history={hashHistory}/>, document.getElementById('react_content'));
+

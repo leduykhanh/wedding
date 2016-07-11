@@ -22,12 +22,15 @@
     "react-bootstrap": "^0.29.4",
     "react-count-down": "^1.0.1",
     "react-image-gallery": "^0.6.3",
+    "react-responsive-html-menu": "^1.0.3",
     "react-router": "^2.4.1",
     "react-sticky": "^5.0.3",
     "vinyl-source-stream": "1.1.0"
   },
   "dependencies": {
     "react": "0.14.5",
-    "react-dom": "0.14.5"
+    "react-dom": "0.14.5",
+    "react-preload": "^0.2.3",
+    "react-responsive-html-menu": "^1.0.3"
   }
 }
