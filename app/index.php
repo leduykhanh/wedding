@@ -216,13 +216,13 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-couple.jpg" class="magnific-zoom">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                     
                                             <a class="magnific-ajax" href="http://demo.dethemes.com/forever/versions/onepage/him.html">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-link"></i>
+            										<i class="fa fa-link"></i>
             									</div>
         									</a>
                                                 
@@ -266,13 +266,13 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-couple.jpg" class="magnific-zoom">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                     
                                             <a class="magnific-ajax" href="http://demo.dethemes.com/forever/versions/onepage/her.html">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-link"></i>
+            										<i class="fa fa-link"></i>
             									</div>
         									</a>
                                                 
@@ -349,7 +349,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-1.jpg" class="magnific-zoom" title="Our First Met">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -401,7 +401,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-9.jpg" class="magnific-zoom" title="Our First Dating">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>                                                 
                                                 
@@ -453,7 +453,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-2.jpg" class="magnific-zoom" title="He Proposed">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -506,7 +506,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-3.jpg" class="magnific-zoom" title="Love Ring">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -731,7 +731,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-1.jpg" class="magnific-zoom-gallery" title="Attachment-1">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -761,7 +761,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-2.jpg" class="magnific-zoom-gallery" title="Attachment-2">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                             
@@ -791,7 +791,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-3.jpg" class="magnific-zoom-gallery" title="Attachment-3">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -821,7 +821,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-4.jpg" class="magnific-zoom-gallery" title="Attachment-4">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -851,7 +851,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-5.jpg" class="magnific-zoom-gallery" title="Attachment-5">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -881,7 +881,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-6.jpg" class="magnific-zoom-gallery" title="Attachment-6">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -911,7 +911,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-7.jpg" class="magnific-zoom-gallery" title="Attachment-7">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                             
@@ -941,7 +941,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-8.jpg" class="magnific-zoom-gallery" title="Attachment-8">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -971,7 +971,7 @@
                                            
                                      		<a href="http://demo.dethemes.com/forever/versions/onepage/images/attachment-9.jpg" class="magnific-zoom-gallery" title="Attachment-9">
         										<div class="de-icon circle light medium-size inline">
-            										<i class="de-icon-zoom-in"></i>
+            										<i class="fa fa-search-plus"></i>
             									</div>
         									</a>
                                                 
@@ -1069,13 +1069,13 @@
                                            
                                      				<a href="./js/event-1.jpg" class="magnific-zoom" title="event-1">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-zoom-in"></i>
+            												<i class="fa fa-search-plus"></i>
             											</div>
         											</a>
                                                     
                                             		<a href="http://jangkoo/wedding/#">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-link"></i>
+            												<i class="fa fa-link"></i>
             											</div>
         											</a>
                                                 
@@ -1112,13 +1112,13 @@
                                            
                                      				<a href="./js/event-2.jpg" class="magnific-zoom" title="event-2">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-zoom-in"></i>
+            												<i class="fa fa-search-plus"></i>
             											</div>
         											</a>
                                                     
                                             		<a href="http://jangkoo/wedding/#">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-link"></i>
+            												<i class="fa fa-link"></i>
             											</div>
         											</a>
                                                 
@@ -1155,13 +1155,13 @@
                                            
                                      				<a href="./js/event-3.jpg" class="magnific-zoom" title="event-3">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-zoom-in"></i>
+            												<i class="fa fa-search-plus"></i>
             											</div>
         											</a>
                                                     
                                             		<a href="#">
         												<div class="de-icon circle light medium-size inline">
-            												<i class="de-icon-link"></i>
+            												<i class="fa fa-link"></i>
             											</div>
         											</a>
                                                 
@@ -1252,7 +1252,7 @@
                                            
                                      			<a href="./js/groomsmen-1.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1299,7 +1299,7 @@
                                            
                                      			<a href="./js/groomsmen-2.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1346,7 +1346,7 @@
                                            
                                      			<a href="./js/groomsmen-3.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1392,7 +1392,7 @@
                                            
                                      			<a href="./js/groomsmen-4.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1439,7 +1439,7 @@
                                            
                                      			<a href="./js/groomsmen-5.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1486,7 +1486,7 @@
                                            
                                      			<a href="./js/groomsmen-6.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1573,7 +1573,7 @@
                                            
                                      			<a href="./js/bridesmaid-1.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1620,7 +1620,7 @@
                                            
                                      			<a href="./js/bridesmaid-2.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1667,7 +1667,7 @@
                                            
                                      			<a href="./js/bridesmaid-3.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1714,7 +1714,7 @@
                                            
                                      			<a href="./js/bridesmaid-4.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1761,7 +1761,7 @@
                                            
                                      			<a href="./js/bridesmaid-5.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 
@@ -1808,7 +1808,7 @@
                                            
                                      			<a href="./js/bridesmaid-6.jpg" class="magnific-zoom">
         											<div class="de-icon circle light medium-size inline">
-            											<i class="de-icon-zoom-in"></i>
+            											<i class="fa fa-search-plus"></i>
             										</div>
         										</a>
                                                 

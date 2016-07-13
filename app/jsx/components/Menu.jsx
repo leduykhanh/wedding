@@ -36,9 +36,6 @@ export default class Menu extends React.Component {
 							<a href="#main-slider">HOME</a>
 						</li>
 						<li>
-							<a href="#our-story">STORY</a>
-						</li>
-						<li>
 							<a href="#where-when">WHERE &amp; WHEN</a>
 						</li>
 						<li>
